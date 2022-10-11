@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Palak-java
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning DSA
+- 💞️ I’m looking to collaborate on some exciting projects
